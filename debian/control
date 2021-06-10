@@ -1,0 +1,16 @@
+Source: ngcp-js-api-client
+Section: javascript
+Priority: optional
+Maintainer: Sipwise Development Team <support@sipwise.com>
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.5.1
+Homepage: https://sipwise.com/
+
+Package: libjs-ngcp-api-client
+Architecture: all
+Depends:
+ ${misc:Depends},
+Description: Javascript API Client to request the Sipwise VoIP Platform REST API over HTTP
+ To follow best practices and share the same Javascript code between such WebUIs like
+ ngcp-admin-ui, ngcp-csc-ui and more projects in the future.
