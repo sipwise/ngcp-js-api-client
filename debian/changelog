@@ -1,3 +1,10 @@
+ngcp-js-api-client (10.3.0.0+0~mr10.3.0.0) unstable; urgency=medium
+
+  [ Guillem Jover ]
+  * [70452cc] TT#124273 Add debian/.gitignore file
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Tue, 23 Nov 2021 14:18:20 +0100
+
 ngcp-js-api-client (10.2.0.0+0~mr10.2.0.0) unstable; urgency=medium
 
   * New release.
