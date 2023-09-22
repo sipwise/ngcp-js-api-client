@@ -2,9 +2,10 @@ Source: ngcp-js-api-client
 Section: javascript
 Priority: optional
 Maintainer: Sipwise Development Team <support@sipwise.com>
+Rules-Requires-Root: no
 Build-Depends:
  debhelper-compat (= 13),
-Standards-Version: 4.5.1
+Standards-Version: 4.6.2
 Homepage: https://sipwise.com/
 
 Package: libjs-ngcp-api-client
